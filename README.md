@@ -1,3 +1,2 @@
-# web-dev repository only.
-This repo means that I will be putting anything related to web development in this repository. :)
-
+# web-dev repo only.
+This repo indicates that I will exclusively save web development-related files in this repository. :)
